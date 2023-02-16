@@ -1,0 +1,15 @@
+.basic-bold {
+    font-weight: bold;
+}
+
+.main-job-container {
+    padding: 20px 2px;
+}
+
+.main-job-card {
+    padding: 5rem;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: #6E7881
+}
